@@ -1,15 +1,15 @@
- //	lab1_rk.sv
+ //	lab2_rk.sv
 //	Rebecca Kong
 //	rkong@hmc.edu
-//	9/4/2026
+//	9/10/2026
 //
 //	The top level module consisting only of instantiated modules and switch-to-LED logic.
  
- module lab1_rk(
+ module lab2_rk(
 	 input   logic       reset,
 	 input   logic       enable,
 	 input   logic [3:0] switch,
-     output  logic [2:0] led,
+   output  logic [2:0] led,
 	 output  logic [6:0] seg
 );
 
