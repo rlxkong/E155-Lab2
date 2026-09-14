@@ -11,6 +11,7 @@
 	 input   logic [3:0] switchL,
 	 input   logic [3:0] switchR,
 	 input   logic [3:0] cols,
+	 output  logic [3:0] rows,
 	 output  logic [6:0] seg,
 	 output  logic [1:0] power,
 	 output  logic [3:0] led
@@ -20,8 +21,6 @@
    logic 	    seg_clk;
    logic [3:0]  choosen_switch;
    logic [18:0] count;
-   logic [3:0]  rows;
-
 
    // Internal high-speed oscillator
    HSOSC #(.CLKHF_DIV(2'b00))
