@@ -13,7 +13,7 @@ Z1 dC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/top_tb_sim
 vlab1_counter_rk
 Z2 2C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_rk_tb.sv
 Z3 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
-Z4 !s110 1789447725
+Z4 !s110 1789462184
 !i10b 1
 !s100 87[=laACkN8oPnPZ14b@A3
 IK4Ug_R17o1TaRPYTRlAD12
@@ -29,7 +29,7 @@ Z6 OL;L;2025.2;82
 r1
 !s85 0
 31
-Z7 !s108 1789447725.000000
+Z7 !s108 1789462184.000000
 Z8 !s107 C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_rk_tb.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|
 Z9 !s90 -reportprogress|300|-L|work|-sv|-L|pmi_work|-L|ovi_ice40up|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_rk_tb.sv|-work|qrun.out/work|-statslog|qrun.out/stats_log|-csession=incr|
 !i113 0
@@ -90,15 +90,15 @@ R2
 R3
 R4
 !i10b 1
-!s100 lbE6bee]8VYST5mQOQ0j42
-I2Xc1cIzf[?97Z7PeM=zmH2
+!s100 X<HbAYf4OPBo4H>;eZ;Uj1
+I0leEnViDkW5[RI4RRPni[0
 S1
 R1
-w1789447681
+w1789462108
 8C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_rk_tb.sv
 FC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_rk_tb.sv
 !i122 0
-L0 10 74
+L0 10 83
 R5
 R6
 r1
@@ -115,11 +115,11 @@ R2
 R3
 R4
 !i10b 1
-!s100 ZjZ3c<]TzPFGb493U_WU>2
-IRXHQToVfL>OT[H1U]jmUk1
+!s100 No_PA=d>Yn?0k_Z>Q0f471
+I93@JlOQzcHe6WSaZf68YS3
 S1
 R1
-w1789383063
+w1789452819
 8C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv
 FC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv
 !i122 0
@@ -138,8 +138,8 @@ R11
 Tqrun_opt
 !i145 1
 !i144 0
-!s110 1789447727
-VnjnE3l<K:N3Fi9ZF]WCO?0
+!s110 1789462186
+VgiFRB:[ZIbHMDU8_^@VC`0
 04 10 4 work lab2_rk_tb fast 0
 R0
 !s12f OEM25U6 
