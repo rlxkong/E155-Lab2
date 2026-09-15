@@ -1,0 +1,152 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/scanning_tb_sim
+vlab1_counter_rk
+Z2 2C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv
+Z3 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z4 !s110 1789451392
+!i10b 1
+!s100 87[=laACkN8oPnPZ14b@A3
+IK4Ug_R17o1TaRPYTRlAD12
+S1
+R1
+w1789360977
+8C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv
+FC:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv
+!i122 0
+L0 8 31
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z7 !s108 1789451392.000000
+Z8 !s107 C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|
+Z9 !s90 -reportprogress|300|-L|work|-sv|-L|pmi_work|-L|ovi_ice40up|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv|C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv|-work|qrun.out/work|-statslog|qrun.out/stats_log|-csession=incr|
+!i113 0
+Z10 o-L work -sv -L pmi_work -L ovi_ice40up -work qrun.out/work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0 defaultOptions 1085333592
+vlab1_sevenseg_rk
+R2
+R3
+R4
+!i10b 1
+!s100 8:5W5E^j[APBo=:eM@M7K1
+ICa1_@FCk^CL:09JNU8I9g2
+S1
+R1
+w1789191806
+8C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv
+FC:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv
+!i122 0
+L0 8 26
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vlab2_rk
+R2
+R3
+R4
+!i10b 1
+!s100 da4RL3gNQ[U9kMFcbIDcR1
+IR4Yb:K;dX3o:c07JH4j=<1
+S1
+R1
+w1789447416
+8C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv
+FC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv
+!i122 0
+L0 8 40
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vlab2_scanning_rk
+R2
+R3
+R4
+!i10b 1
+!s100 hV_?RoV<CH4^I>T@>D2B11
+IhcAXAO1T6zkRlgJ_Ok^^a1
+S1
+R1
+w1789450299
+8C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv
+FC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv
+!i122 0
+L0 8 22
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vlab2_scanning_rk_tb
+R2
+R3
+R4
+!i10b 1
+!s100 4gg^?7h2^BjBldM13TznY2
+Id8?ldDkZ3J@23R:VjkUKc1
+S1
+R1
+w1789451356
+8C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv
+FC:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv
+!i122 0
+L0 12 90
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Tqrun_opt
+!i145 1
+!i144 0
+R4
+V2INa>G^NVBC8VS;_Pec582
+04 19 4 work lab2_scanning_rk_tb fast 0
+R0
+!s12f OEM25U3 
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-suppress vopt-7033 -L work +acc +noacc+pmi_work.* +noacc+ovi_ice40up.* -L pmi_work -L ovi_ice40up -work qrun.out/work
+tCvgOpt 0 defaultOptions 1107585188
+nqrun_opt
+OL;O;2025.2;82

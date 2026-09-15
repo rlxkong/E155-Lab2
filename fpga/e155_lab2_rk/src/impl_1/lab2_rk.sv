@@ -38,7 +38,7 @@
   assign power[1] = ~seg_clk; 													// Right display turns on
  
   // Keyboard Logic
-  lab2_scanning_rk(reset, enable, int_osc, rows);								//scanning rows
+  lab2_scanning_rk lab2_scanning_rk(reset, enable, int_osc, rows);								//scanning rows
   assign led[3] = ~cols[3];
   assign led[2] = ~cols[2];  
   assign led[1] = ~cols[1];
