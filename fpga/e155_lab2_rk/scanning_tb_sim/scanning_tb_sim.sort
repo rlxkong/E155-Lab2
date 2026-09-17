@@ -1,5 +1,8 @@
-C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/src/impl_1/lab2_rk.sv
 C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_sevenseg_rk.sv
-C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk.sv
 C:/Users/rkong/Documents/GitHub/E155-Lab1/fpga/e155_lab1_rk/source/impl_1/lab1_counter_rk.sv
-C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/e155_lab2_rk/source/impl_1/lab2_scanning_rk_tb.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/lab2_rk.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/lab2_rk_tb.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/lab2_scanning_rk.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/lab2_scanning_rk_tb.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/ai_proto_prompt1.sv
+C:/Users/rkong/Documents/GitHub/E155-Lab2/fpga/code/ai_proto_prompt2.sv
